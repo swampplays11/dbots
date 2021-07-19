@@ -67,7 +67,6 @@
       "url": "heroku/nodejs"
     }
   ]
-}
       "description": "Same as DASHBOARD_URL, but with /api/v1 at the end.",
       "value": "https://<heroku_app_name>.herokuapp.com/api/v1"
     },
